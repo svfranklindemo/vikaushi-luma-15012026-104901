@@ -1,20 +1,16 @@
 {
   "mappings": [
-    "/content/luma3/language-masters/en:/",
-    "/content/luma3/language-masters/en/:/en/",
-    "/content/luma3/language-masters/fr/:/fr/",
-    "/content/luma3/language-masters/fr:/fr",
-    "/content/luma3/language-masters/es/:/es/",
-    "/content/luma3/language-masters/es:/es",
-    "/content/luma3/language-masters/ja/:/ja/",
-    "/content/luma3/language-masters/ja:/ja",
-    "/content/luma3/language-masters/de/:/de/",
-    "/content/luma3/language-masters/de:/de",
-    "/content/luma3/configuration:/.helix/config.json",
-    "/content/luma3/metadata:/metadata.json",
-    "/content/luma3/redirects:/redirects.json",
-    "/content/luma3/placeholders:/placeholders.json",
-    "/content/luma3/custom-events:/custom-events.json"
+    "/content/vikaushi-Projects/language-masters/en:/",
+    "/content/vikaushi-Projects/language-masters/en/:/",
+    "/content/vikaushi-Projects/language-masters/en/:/en/",
+    "/content/vikaushi-Projects/configuration:/.helix/config.json",
+    "/content/vikaushi-Projects/metadata:/metadata.json",
+    "/content/vikaushi-Projects/redirects:/redirects.json",
+    "/content/vikaushi-Projects/placeholders:/placeholders.json",
+    "/content/vikaushi-Projects/custom-events:/custom-events.json"
   ],
-  "includes": ["/content/luma3/", "/content/dam/luma3/"]
+  "includes": [
+    "/content/vikaushi-Projects/",
+    "/content/dam/vikaushi-Projects/"
+  ]
 }
